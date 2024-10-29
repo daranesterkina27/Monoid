@@ -50,6 +50,7 @@
   top: 50px;
   left: 130px;
   position: relative;
+  line-height: 1.3;
 }
 
 .screen22{
@@ -70,6 +71,7 @@
   top: 60px;
   left: 534px;
   position: relative;
+  line-height: 1.3;
   }
   
 
@@ -91,6 +93,7 @@
     top: 60px;
     left: 894px;
     position: relative;
+    line-height: 1.3;
   }
   
 
@@ -106,12 +109,26 @@
     top: 100px;
 }
 
-.pic{
-    display: flex;
+.u{
+  top: 200px;
+  left: 80px;
+  position: relative;
+  float: left; 
+  display: block;
 }
 
-.pic{
-    top: 250px;
-    left: 100px;
-    position: relative;
+.a{
+  top: 200px;
+  left: 160px;
+  position: relative;
+  float: left; 
+  display: block;
+}
+
+.b{
+  top: 200px;
+  left: 240px;
+  position: relative;
+  float: left; 
+  display: block;
 }
